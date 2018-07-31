@@ -22,8 +22,8 @@ spring:
   rabbitmq:
     host: localhost
     port: 5672
-    username: guest
-    password: guest
+    username: liudonghao
+    password: MIMAguiqi21
     publisher-confirms: true
     virtual-host: /
 
